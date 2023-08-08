@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile-version](./mobile-sc.png)
-![desktop-version](./desktop-version.png)
-![active-state](./desktop-active.png)
+![mobile](./public/mobile-sc.png)
+![desktop](./public/desktop-version.png)
+![active](./public/desktop-active-state.png)
 
 ### Links
  
